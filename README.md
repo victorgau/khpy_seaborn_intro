@@ -14,11 +14,24 @@
 
 * [seaborn 文件](https://seaborn.pydata.org/)
 
+官網文件上這樣說:
+
+> Seaborn is a Python data visualization library based on <font color="blue">matplotlib</font>. It provides a high-level interface for drawing <font color="green">attractive and informative</font> <font color="red">statistical graphics</font>.
+
+* Seaborn是建構在MatPlotLib之上。
+* 主要是要畫統計圖。
+* 很容易畫出包含統計資訊且具吸引力的圖。
+
 ### 2. 實作引導
 
 * seaborn 簡介
 * 安裝與使用
 * 簡單繪圖範例
+  * Relational plots
+  * Distribution plots
+  * Categorical plots
+  * Regression plots
+  * Matrix plots
 
 ### 3. 自我挑戰
 
